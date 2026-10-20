@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d4a3e"/><stop offset="1" stop-color="#6ec9a4"/></linearGradient></defs>
+<rect width="600" height="420" rx="28" fill="url(#g)"/>
+<circle cx="300" cy="160" r="82" fill="#ffffff" opacity=".12"/>
+<path d="M210 235 L285 120 L330 185 L375 125 L450 235 Z" fill="#fff" opacity=".9"/>
+<path d="M235 235 L285 160 L320 205 L375 150 L425 235 Z" fill="#b9f0d6"/>
+<text x="300" y="305" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" font-weight="700" fill="#fff">Let's Go Ayanrouho</text>
+<text x="300" y="345" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#fff">Tourism Club</text>
+</svg>
